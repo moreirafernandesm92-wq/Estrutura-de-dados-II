@@ -3,7 +3,7 @@
 **Nome completo:** Maria Eduarda Moreira Fernandes  
 **Matrícula:** 42781515  
 **Turma:** Engenharia de Software  
-**Disciplina:** Estrutura de Dados II - 166EstDa2TerD2  
+**Disciplina:** Estrutura de Dados II 
 
 ---
 
